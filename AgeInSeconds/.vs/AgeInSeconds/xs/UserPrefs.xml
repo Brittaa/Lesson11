@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E3A845BB-4664-421E-B82E-AD69BDF5A113}|Default">
+  <MonoDevelop.Ide.ItemProperties.ThrowExceptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AgeInSeconds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UserAge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingWithFile/Program.cs">
+    <Files>
+      <File FileName="AgeInSeconds/Program.cs" Line="39" Column="14" />
+      <File FileName="HowToHandleExceptions/Program.cs" Line="35" Column="68" />
+      <File FileName="ThrowExceptions/Program.cs" Line="18" Column="56" />
+      <File FileName="UserAge/Program.cs" Line="27" Column="74" />
+      <File FileName="WorkingWithFile/Program.cs" Line="34" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AgeInSeconds" expanded="True">
+            <Node name="AgeInSeconds" expanded="True" />
+            <Node name="HowToHandleExceptions" expanded="True" />
+            <Node name="ThrowExceptions" expanded="True" />
+            <Node name="UserAge" expanded="True" />
+            <Node name="WorkingWithFile" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WorkingWithFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HowToHandleExceptions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

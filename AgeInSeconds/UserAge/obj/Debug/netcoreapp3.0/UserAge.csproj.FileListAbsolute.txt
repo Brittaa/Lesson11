@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/bin/Debug/netcoreapp3.0/UserAge
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/bin/Debug/netcoreapp3.0/UserAge.deps.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/bin/Debug/netcoreapp3.0/UserAge.runtimeconfig.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/bin/Debug/netcoreapp3.0/UserAge.runtimeconfig.dev.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/bin/Debug/netcoreapp3.0/UserAge.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/bin/Debug/netcoreapp3.0/UserAge.pdb
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/obj/Debug/netcoreapp3.0/UserAge.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/obj/Debug/netcoreapp3.0/UserAge.AssemblyInfo.cs
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/obj/Debug/netcoreapp3.0/UserAge.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/UserAge/obj/Debug/netcoreapp3.0/UserAge.pdb

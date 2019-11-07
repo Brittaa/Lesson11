@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/bin/Debug/netcoreapp3.0/ThrowExceptions
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/bin/Debug/netcoreapp3.0/ThrowExceptions.deps.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/bin/Debug/netcoreapp3.0/ThrowExceptions.runtimeconfig.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/bin/Debug/netcoreapp3.0/ThrowExceptions.runtimeconfig.dev.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/bin/Debug/netcoreapp3.0/ThrowExceptions.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/bin/Debug/netcoreapp3.0/ThrowExceptions.pdb
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/obj/Debug/netcoreapp3.0/ThrowExceptions.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/obj/Debug/netcoreapp3.0/ThrowExceptions.AssemblyInfo.cs
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/obj/Debug/netcoreapp3.0/ThrowExceptions.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/ThrowExceptions/obj/Debug/netcoreapp3.0/ThrowExceptions.pdb

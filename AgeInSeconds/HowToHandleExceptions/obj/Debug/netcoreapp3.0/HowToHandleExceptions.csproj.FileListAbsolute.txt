@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/bin/Debug/netcoreapp3.0/HowToHandleExceptions
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/bin/Debug/netcoreapp3.0/HowToHandleExceptions.deps.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/bin/Debug/netcoreapp3.0/HowToHandleExceptions.runtimeconfig.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/bin/Debug/netcoreapp3.0/HowToHandleExceptions.runtimeconfig.dev.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/bin/Debug/netcoreapp3.0/HowToHandleExceptions.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/bin/Debug/netcoreapp3.0/HowToHandleExceptions.pdb
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/obj/Debug/netcoreapp3.0/HowToHandleExceptions.csprojAssemblyReference.cache
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/obj/Debug/netcoreapp3.0/HowToHandleExceptions.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/obj/Debug/netcoreapp3.0/HowToHandleExceptions.AssemblyInfo.cs
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/obj/Debug/netcoreapp3.0/HowToHandleExceptions.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/HowToHandleExceptions/obj/Debug/netcoreapp3.0/HowToHandleExceptions.pdb

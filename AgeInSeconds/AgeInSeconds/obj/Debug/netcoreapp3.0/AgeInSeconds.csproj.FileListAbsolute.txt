@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/bin/Debug/netcoreapp3.0/AgeInSeconds
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/bin/Debug/netcoreapp3.0/AgeInSeconds.deps.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/bin/Debug/netcoreapp3.0/AgeInSeconds.runtimeconfig.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/bin/Debug/netcoreapp3.0/AgeInSeconds.runtimeconfig.dev.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/bin/Debug/netcoreapp3.0/AgeInSeconds.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/bin/Debug/netcoreapp3.0/AgeInSeconds.pdb
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/obj/Debug/netcoreapp3.0/AgeInSeconds.csprojAssemblyReference.cache
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/obj/Debug/netcoreapp3.0/AgeInSeconds.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/obj/Debug/netcoreapp3.0/AgeInSeconds.AssemblyInfo.cs
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/obj/Debug/netcoreapp3.0/AgeInSeconds.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/AgeInSeconds/obj/Debug/netcoreapp3.0/AgeInSeconds.pdb

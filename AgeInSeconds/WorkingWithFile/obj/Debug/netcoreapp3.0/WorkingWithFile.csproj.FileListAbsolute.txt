@@ -1,0 +1,10 @@
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/bin/Debug/netcoreapp3.0/WorkingWithFile
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/bin/Debug/netcoreapp3.0/WorkingWithFile.deps.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/bin/Debug/netcoreapp3.0/WorkingWithFile.runtimeconfig.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/bin/Debug/netcoreapp3.0/WorkingWithFile.runtimeconfig.dev.json
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/bin/Debug/netcoreapp3.0/WorkingWithFile.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/bin/Debug/netcoreapp3.0/WorkingWithFile.pdb
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/obj/Debug/netcoreapp3.0/WorkingWithFile.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/obj/Debug/netcoreapp3.0/WorkingWithFile.AssemblyInfo.cs
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/obj/Debug/netcoreapp3.0/WorkingWithFile.dll
+/Users/Britta/Desktop/AgeInSeconds/AgeInSeconds/WorkingWithFile/obj/Debug/netcoreapp3.0/WorkingWithFile.pdb
